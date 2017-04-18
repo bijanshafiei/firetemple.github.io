@@ -317,6 +317,7 @@ input[type=submit] {
   }
 
   .container {
+    width: 100%;
     max-width: 640px;
     margin-left: 10px;
   }
@@ -325,7 +326,8 @@ input[type=submit] {
     float: right;
     width: 100%;
     padding-left: 40px;
-    margin-right: 10px;
+    margin-left: 15px;
+    margin-right: 4px;
 
 
   }
